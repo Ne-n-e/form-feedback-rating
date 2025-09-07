@@ -62,4 +62,13 @@ nav{
       width: 90%;
     }
   }
+
+
+.rating-section {
+  margin-top: 20px; /* space from submit button */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
   
